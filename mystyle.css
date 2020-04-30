@@ -1,0 +1,26 @@
+.body {
+    background-color:mediumspringgreen;
+    border:16px double purple;
+    margin:0px;
+}
+
+.h1 {
+    background-color:lightyellow;
+    color:teal;
+    border:4px dashed black;
+    font-family:impact;
+    font-size:300%;
+    text-align:center;
+}
+.h2 {
+    text-align:center;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size:200%;
+}
+.p {
+    color:black;
+    font-size:125%;
+    padding-left:20px;
+    padding-right:20px;
+    text-indent:5%;
+}
